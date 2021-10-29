@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App3'; // change this path depending on which file you want to render 
+import App from './App4'; // change this path depending on which file you want to render 
 
 ReactDOM.render(
   <React.StrictMode>

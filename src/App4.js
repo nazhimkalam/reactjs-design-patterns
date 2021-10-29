@@ -1,10 +1,12 @@
 import React from 'react'
+import { CurrentUserLoader } from './components/ContainerComponents/CurrentUserLoader'
+import { UserInfo } from './components/ContainerComponents/UserInfo'
 
 const App4 = () => {
     return (
-        <div>
-            
-        </div>
+        <CurrentUserLoader>
+          <UserInfo />
+        </CurrentUserLoader>
     )
 }
 
