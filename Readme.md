@@ -6,6 +6,6 @@
 
 1. **Layout Components** - These are the components that are used to layout the application. Note that these components needs to be reusable. Hence these components should be **developed** in such a way that they can be used in multiple places.
 
-
+2. **Container Components** - Components that take care of loading and managing data for their child components.
 
 

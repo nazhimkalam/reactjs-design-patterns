@@ -1,5 +1,5 @@
-import { LargePersonListItem } from "./components/people/LargePersonListItem";
-import { SmallPersonListItem } from "./components/people/SmallPersonListItem";
+import { LargePersonListItem } from "./components/LayoutComponents/people/LargePersonListItem";
+import { SmallPersonListItem } from "./components/LayoutComponents/people/SmallPersonListItem";
 import { LargeProductListItem } from "./components/products/LargeProductListItem";
 import { SmallProductListItem } from "./components/products/SmallProductListItem";
 import { RegularList } from "./components/RegularList";
