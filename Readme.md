@@ -8,4 +8,14 @@
 
 2. **Container Components** - Components that take care of loading and managing data for their child components.
 
+3. **Controlled and Uncontrolled Components** 
+
+4. **Higher Order Components** 
+
+5. **Custom Hooks Patterns**
+
+6. **Functional Programming**
+
+
+
 
